@@ -1,0 +1,36 @@
+.buttondiv{
+    margin-top: 20px;
+    text-align: center
+}
+
+select{
+    width: 80%;
+    height: 4rem;
+    padding: 1rem;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+}
+
+.form-group{
+    margin: 3rem;
+}
+
+#dateinput{
+    display: inline;
+    width: 50%;
+    margin-left: 3rem;
+}
+
+#newinput{
+    margin-left: 10rem;
+    position: absolute;
+    margin-bottom: 25px;
+    border-radius: 15px;
+    box-shadow: 0 0 1rem 0 rgba(0, 0, 0, 0.3);
+    background: rgba(255, 255, 255, 0.85);
+    padding: 2rem 2rem;
+    z-index: 80;
+}
